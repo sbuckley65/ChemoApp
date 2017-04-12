@@ -1,2 +1,2 @@
 # ChemoApp
-An app to help chemo patients tract food, water and exercise.
+An app to help chemo patients track food, water and exercise.
